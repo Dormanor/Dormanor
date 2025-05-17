@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dormanor and I'm a guy, from Gujarat</h2>
+<h2 align="left">Hi 👋! My name is Dormanor and I'm a guy</h2>
 
 ###
 
